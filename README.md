@@ -1,2 +1,1 @@
-# product-card
-Html + css product card 
+https://marclupanc.github.io/product-card/
